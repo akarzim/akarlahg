@@ -1,0 +1,105 @@
+= Déclaration des droits de l'homme et du citoyen
+
+:ddhc: https://fr.wikipedia.org/wiki/Déclaration_des_droits_de_l'homme_et_du_citoyen_de_1789
+:alt: https://www.wikiwand.com/fr/Orthographes_alternatives_du_français
+
+Voici le texte du premier paragraphe de la {ddhc}[Déclaration des droits de l'homme de
+1789] en orthographe standard, en notation API, puis dans {alt}[différentes
+propositions].
+
+== Orthographe standard
+
+Déclaration des droits de l'homme et du citoyen de 1789
+
+Les Représentants du Peuple Français, constitués en Assemblée nationale,
+considérant que l’ignorance, l’oubli ou le mépris des droits de l’homme sont les
+seules causes des malheurs publics et de la corruption des Gouvernements, ont
+résolu d’exposer, dans une Déclaration solennelle, les droits naturels,
+inaliénables et sacrés de l’homme, afin que cette Déclaration, constamment
+présente à tous les membres du corps social, leur rappelle sans cesse leurs
+droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du
+pouvoir exécutif pouvant être à chaque instant comparés avec le but de toute
+institution politique, en soient plus respectés ; afin que les réclamations des
+citoyens, fondées désormais sur des principes simples et incontestables,
+tournent toujours au maintien de la Constitution, et au bonheur de tous. En
+conséquence, l’Assemblée nationale reconnaît et déclare, en présence et sous les
+auspices de l’Être Suprême, les droits suivants de l’homme et du citoyen.
+
+== Alphabet Phonétique International
+
+deklaʁasjɔ̃ de dʁwa də l‿ɔm e dy sitwajɛ̃ də milsɛtsɑ̃kɑtχəvɛ̃nœf
+
+le ʁəpχezɑ̃tɑ̃ dy pœplə fʁɑ̃sɛ, kɔ̃stitɥe ɑ̃n‿asɑ̃ble nasjɔnal, kɔ̃sideʁɑ̃ kə l‿iɲɔʁɑ̃s,
+l‿ubli u lə mepχi de dʁwa də l‿ɔm sɔ̃ le sœl koz de malœʁ pyblik e də la kɔʁypsjɔ̃
+de ɡuvɛʁnəmɑ̃, ɔ̃ ʁezɔly d‿ɛkspoze, dɑ̃z‿yn deklaʁasjɔ̃ sɔlanɛl, le dʁwa natyʁɛl,
+inaljenabl‿e sakχe də l‿ɔm, afɛ̃ kə sɛt deklaʁasjɔ̃, kɔ̃stamɑ̃ pχezɑ̃t‿a tu le mɑ̃bʁ
+dy kɔʁ sɔsjal, lœʁ ʁapɛl sɑ̃ sɛs lœʁ dʁwa e lœʁ dəvwaʁ ; afɛ̃ kə lez‿akt dy puvwaʁ
+leʒislatif, e sø dy puvwaʁ‿ɛɡzekytif puvɑ̃t‿ɛtʁ a ʃak‿ɛ̃stɑ̃ kɔ̃paʁe avɛk lə byt də
+tut‿ɛ̃stitysjɔ̃ pɔlitik, ɑ̃ swa ply ʁɛspɛkte ; afɛ̃ kə le ʁeklɑmasjɔ̃ de sitwajɛ̃,
+fɔ̃de dezɔʁmɛ syʁ de pʁɛ̃sip sɛ̃pl‿e ɛ̃kɔ̃tɛstabl, tuʁn tuʒuʁ‿o mɛ̃tjɛ̃ də la
+kɔ̃stitysjɔ̃, e o bɔnœʁ də tus. ɑ̃ kɔ̃sekɑ̃s, l‿asɑ̃ble nasjɔnal ʁəkɔnɛ e deklaʁ, ɑ̃
+pχezɑ̃s e su lez‿ɔspis də l‿ɛtχ sypʁɛm, le dʁwa sɥivɑ̃ də l‿ɔm e dy sitwajɛ̃.
+
+== Akarlãg
+
+Déklarasyõ dé drwa' de l'om é du sitwayũ de 1789
+
+Lé reprézãtã' du pœpl e'frãsè, kõstitüé ã n'asãblé nasyonal, kõsidérã ke
+l'iɲorãs, l'ůbli ů le mépri dé drwa' de l'om sõ lé sœl' koz' dé malœr' publik' é
+de la korupsyõ dé gůvernemã', õ' rézolu d'èxpozé, dã z'un déklarasyõ solanèl, lé
+drwa' naturèl', inalyénabl' é sakré' de l'om, afĩ ke sèt déklarasyõ, kõstamã
+prézãt a tů lé mãbr' du kor sosyal, lœr rapèl sã sès lœr' drwa' z'é lœr'
+devwar' ; afĩ ke lé z'akt' du půvwar léjislatif, é sœ du půvwar èẍékutif půvã
+t'ètr a cak ĩstã kõparé avèk le but de tůt ĩstitutyõ politik, ã swa plu
+rèspèkté ; afĩ ke lé réklamasyõ' dé sitwayũ', fõdé dézormè sur dé prĩsip sĩpl é
+ĩkõtèstabl, tůrn tůjůr ô mĩtyĩ de la kõstitusyõ, é ô bonœr de tůs. Ã kõsékãs,
+l'asãblé nasyonal rekonè é déklar, ã prézãs é sů lé z'ospis' de l'Ètr e'Suprèm, lé
+drwa' süivã' de l'om é du sitwayũ.
+
+== Akarlahg
+
+Dehklarasyoh deh drwa' de l'om eh du sitwayuh de 1789
+
+Leh reprehzahtah' du pepl e'frahshe, kohstitueh ah n'asahbleh nasyonal,
+kohsidehrah ke l'inqorahs, l'hubli hu le mehpri deh drwa' de l'om soh leh sel'
+koz' deh maler' publik' eh de la korupsyoh deh ghuvernemah', oh' rehzolu
+d'hexpozeh, dah z'un dehklarasyoh solanhel, leh drwa' naturhel', inalyehnabl' eh
+sakreh' de l'om, afih ke shet dehklarasyoh, kohstamah prehzaht a thu leh mahbr'
+du kor sosyal, ler raphel sah shes ler' drwa' z'eh ler' devwar' ; afih ke leh
+z'akt' du phuvwar lehjislatif, eh se du phuvwar hegzehkutif phuvah t'hetr a cak
+ihstah kohpareh avhek le but de thut ihstitutyoh politik, ah swa plu
+rhesphekteh ; afih ke leh rehklamasyoh' deh sitwayuh', fohdeh dehzormhe sur deh
+prihsip sihpl eh ihkohthestabl, thurn thujhur o mihtyih de la kohstitusyoh, eh o
+boner de thus. AH kohsehkahs, l'asahbleh nasyonal rekonhe eh dehklar, ah
+prehzahs eh shu leh z'ospis' de l'HEtr e'Suprhem, leh drwa' suivah' de l'om eh
+du sitwayuh.
+
+== Alfonic
+
+declarasiö de drwa dx l om e du sitwayë dx 1789
+
+le rxprezätä du pxplx fräsè, cöstitue ä n-asäble nasional, cösiderä cx l
+inyoräs, l wbli w lx mepri de drwa dx l om sö le sxl coz de malxr public e dx la
+corupsiö de gwvernxmä, ö rezolu d'ecspoze, dä z-un declarasiö solanel, le drwa
+naturel, inalienabl e sacre dx l om, afë cx set declarasiö, cöstamä prezät a tw
+le mäbr du cor sosial, lxr rapel sä ses lxr drwa e lxr dxvwar ; afë cx le z-actx
+du pwvwar lejislatif, e sx du pwvwar egzecutif pwvä t-etr a hac ëstä cöpare avec
+lx but dx twt ëstitusiö politic, ä swa plu respecte ; afë cx le reclamasiö de
+sitwayë, fönde dezormè sur de prësip sëpl e ëcötestabl, twrnx twjwr o mëtië dx
+la cöstitusiö, e o bonxr dx tws. ä cösecäns, l asäble nasional rxconè e declar,
+ ä prezäs e sw le z-ospis dx l etrx suprem, le drwa suivä dx l om e du sitwayë.
+
+== Ortofasil
+
+Déklarasyõ dé drwa de l'om é du sitwayĩ de 1789
+
+Lé Reprézãtã du Pëpl Frãsè, kõstitué ãn Asãblé nasyonal, kõsidérã ke l'inyorãs,
+l'öbli ö le mépri dé drwa de l'om sõ lé sël koz dé malër publik é de la korupsyõ
+dé Gövèrnemã, õ rézolu d'èkspozé, dãz un Déklarasyõ solanèl, lé drwa naturèl,
+inalyénabl é sakré de l'om, afĩ ke sèt Déklarasyõ, kõstamã prézãt a tö lé mãbr
+du kor sosyal, lër rapèl sã sès lër drwa é lër devwar : afĩ ke léz akt du pövwar
+léjislatif, é se du pövwar ègzékutif pövãt ètr a cak ĩstã kõparé avèk le but de
+töt ĩstitusyõ politik, ã swa plu rèspèkté ; afĩ ke lé réklamasyõ dé sitwayĩ,
+fõdé dézormè sur dé prĩsip sĩpl é ĩkõtèstabl, törn töjör o mĩtyĩ de la
+Kõstitusyõ, é o bonër de tös. Ã kõsékãs, l'Asãblé nasyonal rekonè é déklar, ã
+prézãs é sö léz ospis de l'Ètr Suprèm, lé drwa suivã de l'om é du sitwayĩ.

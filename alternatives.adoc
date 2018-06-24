@@ -1,0 +1,23 @@
+= Alternatives
+
+:alt: https://www.wikiwand.com/fr/Orthographes_alternatives_du_français
+
+De nombreuses {alt}[orthographes alternatives] existent, chacune ayant ses
+forces et ses spécificités.
+
+== Systèmes à usage spécialisé
+
+* La notation Alfonic
+* L'ortograf altèrnativ
+
+== Propositions à vocation générale
+
+* La norme Ortograf.net
+* La norme Ortograf-fr ou Alfograf
+* Le projet Fransin
+* L'écriture Ortofasil / Fonétik
+* Les propositions Simpleman écrir
+* La fràsil
+* Le néoquébecois
+* la proligrafi
+* Le néo-français
