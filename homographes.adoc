@@ -1,0 +1,111 @@
+# Homographes
+
+En linguistique, des mots homographes sont des mots qui s'écrivent de la même
+manière, tout en se prononçant ou non de façon différente.
+
+En voici quelques-uns et leurs transcriptions respectives en API, en Akarlãg et en Akarlahg.
+
+Nous portions nos portions.::
+- nu pɔʁtjˈɔ̃ no pɔʁsjˈɔ̃
+- Nů portyõ' nô porsyõ'.
+- Nhu portyoh' no porsyoh'.
+
+Les poules du couvent couvent.::
+- le- pˈul dy- kuvˈɑ̃ kˈuv
+- Lé půl' du kůvã kův'.
+- Leh phul' du khuvah khuv'.
+
+Mes fils ont cassé mes fils.::
+- me- fˈis ˈɔ̃ kasˈe me- fˈil
+- Mé fis' õ' kasé mé fil'.
+- Meh fis' oh' kaseh meh fil'.
+
+Je vis ces vis.::
+- ʒə- vˈi se vˈis
+- Je vi sé vis'.
+- Je vi seh vis'.
+
+Cet homme est fier ; peut-on s'y fier ?::
+- sɛt ˈɔm ɛ fjˈɛʁ ; pˈøtɔ̃ si fjˈe ?
+- Sèt om è fyèr ; pœ t'õ si fyé ?
+- Shet om he fyher ; pe t'oh si fyeh ?
+
+Nous éditions de belles éditions.::
+- nuz editjˈɔ̃ də- bˈɛlz edisjˈɔ̃
+- Nů z'édityõ' de bèl' z'édisyõ'.
+- Nhu z'ehdityoh' de bhel' z'ehdisyoh'.
+
+Je suis content qu'ils nous content cette histoire.::
+- ʒə- syˌi kɔ̃tˈɑ̃ kil nu kɔ̃t sɛt istwˈaʁ
+- Je sui kõtã k'il' nů kõt' sèt istwar.
+- Je suis kohtah k'il' nhu koht' shet istwar.
+
+Il convient qu'ils convient leurs amis.::
+- il kɔ̃vjˈɛ̃ kil kɔ̃vi lœʁz amˈi
+- Il kõvyĩ k'il' kõvi' lœr' z'ami'.
+- Il kohvyih k'il' kohvi' ler' z'ami'.
+
+Ils ont un caractère violent et ils violent leurs promesses.::
+- ilz ɔ̃t œ̃ kaʁaktˈɛʁ vjɔlˈɑ̃ e il vjˈɔl lœʁ pʁɔmˈɛs
+- Il' z'õ' t'ũ karaktèr vyolã é il' vyol' lœr' promès'.
+- Il' z'oh' t'uh karakther vyolah eh il' vyol' ler' promhes'.
+
+Ces dames se parent de fleurs pour leur parent.::
+- se dˈam sə- pˈaʁ də- flˈœʁ puʁ lœʁ paʁˈɑ̃
+- Sé dam' se par' de flœr' půr lœr parã.
+- Seh dam' se par' de fler' phur ler parah.
+
+Ils expédient leurs lettres ; c'est un bon expédient.::
+- ilz ɛkspedˈi lœʁ lˈɛtʁ ; sɛt œ̃ bˈɔ̃n ɛkspedjˈɑ̃
+- Il' z'èxpédi' lœr' lètr' ; s'è t'ũ bon èxpédyã.
+- Il' z'hexpehdi' ler' lhetr' ; s'he t'uh bon hexpehdyah.
+
+Ils négligent leur devoir ; moi, je suis moins négligent.::
+- il neɡlˈiʒ lœʁ dəvwˈaʁ ; mwˈa, ʒə- syˌi mwˈɛ̃ neɡlˈiʒˈɑ̃
+- Il' néglij' lœr devwar ; mwa, je sui mwĩ néglijã.
+- Il' nehglij' ler devwar ; mwa, je sui mwih nehglijah.
+
+Ils résident à Paris chez le résident d\'une ambassade étrangère.::
+- il ʁezˈidt a paʁˈi ʃe lə- ʁezidˈɑ̃ dyn ɑ̃basˈad etʁɑ̃ʒˈɛʁ
+- Il' rézid' t'a Pari cé le rézidã d'un ãbasad étrãjèr.
+- Il' rehzid' t'a Pari ceh le rehzidah d'un ahbasad ehtrahjher.
+
+Ces cuisiniers excellent à composer cet excellent plat.::
+- se kyizinjˈez ɛksɛlˈt a kɔ̃pozˈe sɛt ɛksɛlˈɑ̃ plˈa
+- Sé kuizinyé' z'èxèl' t'a kõpôzé sèt èxèlã pla.
+- Seh kuizinyeh' z'hekshel' t'a kohpozeh shet hekshelah pla.
+
+Les poissons affluent d\'un affluent de la rivière.::
+- le- pwasˈɔ̃z afly dœ̃n aflyˈɑ̃ də- la- ʁivjˈɛʁ
+- Lé pwasõ' z'aflu' d'ũ n'afluã de la rivyèr.
+- Leh pwasoh' z'aflu' d'uh' n'afluah de la rivyher.
+
+Nous objections beaucoup de choses à vos objections.::
+- nuz ɔbʒɛktjˈɔ̃ bokˌu də- ʃˈozz a voz ɔbʒɛksjˈɔ̃
+- Nů z'objèktyõ bôků de côz' z'a vô' z'objèxyõ.
+- Nhu z'objhektyoh bokhu de coz' z'a vo' z'objheksyoh.
+
+Nous nous oignons de purée d'oignons.::
+- nu nuz wanjˈɔ̃ də- pyʁˈe donjˈɔ̃
+- Nů nů z'wanyõ' de puré d'ônyõ'.
+- Nhu nhu wanyoh de pureh d'onyoh'.
+
+Nous relations nos relations.::
+- nu ʁəlatjˈɔ̃ no ʁəlasjˈɔ̃
+- Nů relatyõ' nô' relasyõ'.
+- Nhu relatyoh' no' relasyoh'.
+
+Il est né à l\'est.::
+- il ɛ nˈe a lˈɛst
+- Il è né a l'èst.
+- Il he neh a l'hest.
+
+Tu as un as dans ton jeu.::
+- ty az œ̃n ˈas dɑ̃ tɔ̃ ʒˈø
+- Tu a z'ũ n'as dã tõ jœ.
+- Tu a z'uh n'as dah toh je.
+
+J\'ai fait un nœud de chaise avec ce bout de bout.::
+- ʒe fˈɛt œ̃ nˈø də- ʃˈɛz avˌɛk sə- bˈu də- bˈut
+- J'é fè t'ũ nœ de cèz avèk se bů de bůt.
+- J'eh fhe t'eh ne de chez avhek se bhu de bhut.
