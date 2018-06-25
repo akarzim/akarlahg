@@ -29,7 +29,7 @@ langue française. Et c'est en m'aidant de l'API pour énumérer l'ensemble des
 phonèmes — et des graphèmes qui leur sont liés — qu'ont vu le jour _Akarlãg_ et
 _Akarlahg_.
 
-=== Règles du jeu
+== Règles du jeu
 
 :liaisons: https://fr.wikipedia.org/wiki/Liaison_en_français[liaisons]
 :accords: https://fr.wikipedia.org/wiki/Accord_(grammaire)[accords]

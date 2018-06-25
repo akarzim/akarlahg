@@ -1,4 +1,4 @@
-# Homographes
+= Homographes
 
 En linguistique, des mots homographes sont des mots qui s'écrivent de la même
 manière, tout en se prononçant ou non de façon différente.
