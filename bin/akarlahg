@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+
+require "optparse"
+require_relative "../akarlahg/akarlahg"
+
+using Akarlahg
+
+options = { from: :ipa, to: :utf8 }
+
+optparse = OptionParser.new do |opts|
+  opts.banner = "Usage: #{__FILE__} [options] string"
+
+  opts.on("-fSRC", "--from=SRC", [:ipa, :utf8, :latin], "Convert text from SRC (ipa, utf8, latin)") do |src|
+    options[:from] = src
+  end
+
+  opts.on("-tDEST", "--to=DEST", [:ipa, :utf8, :latin], "Convert text to DEST (ipa, utf8, latin)") do |dest|
+    options[:to] = dest
+  end
+
+  opts.on("-h", "--help", "Prints this help") do
+    puts opts
+    exit
+  end
+end
+
+begin
+  optparse.parse!
+  missing = %i[to].select { |param| options[param].nil? }
+  raise OptionParser::MissingArgument.new(missing.join(", ")) unless missing.empty?
+rescue OptionParser::InvalidOption, OptionParser::MissingArgument
+  puts $!.to_s
+  puts optparse
+  exit
+end
+
+ARGV.join("\n").each_line do |line|
+  puts line.transpose(options)
+end

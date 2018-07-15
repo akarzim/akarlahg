@@ -89,3 +89,39 @@ image:images/vwayhel.png[]
 === Kõson' / Kohson'
 
 image:images/kohson.png[]
+
+== Transcription
+
+Un petit utilitaire en ligne de commande est disponible pour transcrire un texte
+en Akarlãg ou en Akarlahg depuis la notation alphabétique phonétique
+internationale. Et inversement.
+
+=== Usage
+
+```sh
+❯./bin/akarlahg --help
+
+Usage: bin/akarlahg [options] string
+    -f, --from=SRC                   Convert text from SRC (ipa, utf8, latin)
+    -t, --to=DEST                    Convert text to DEST (ipa, utf8, latin)
+    -h, --help                       Prints this help
+```
+
+==== Exemples
+
+```sh
+❯ bin/akarlahg -f ipa -t utf8 "dɛ nɔɛl u œ̃ zefiʁ aj mə vɛ də ɡlasɔ̃ vyʁmjɛ̃ ʒə din dɛkski ʁoti də bœf o kiʁ a lˈaj dˈaʒ myʁ et seteʁa"
+
+dè noèl ů ũ zéfir ȧ me vè de glasõ vurmyũ je din dèxki rôti de bœf ô kir a lȧ daj mur ét sétéra
+```
+
+```sh
+❯ bin/akarlahg -f ipa -t latin "dɛ nɔɛl u œ̃ zefiʁ aj mə vɛ də ɡlasɔ̃ vyʁmjɛ̃ ʒə din dɛkski ʁoti də bœf o kiʁ a lˈaj dˈaʒ myʁ et seteʁa"
+
+dhe nohel hu uh zehfir ay me vhe de glasoh vurmyuh je din dhekski roti de bef o kir a lay daj mur eht sehtehra
+```
+
+NOTE: Ce script n'en est qu'à ses balbutiements. +
+      Il ne permet pas la transcription depuis (ni vers) un texte orthographié
+      de façon standard. +
+      Il ne gère correctement ni les liaisons, ni les pluriels.
