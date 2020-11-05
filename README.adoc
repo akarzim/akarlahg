@@ -82,12 +82,6 @@ de {digrammes} permettant l'écriture sans {diacritiques}. Il s'agit du *h* et d
 *q*. La première étant utilisée dans le cas de digrammes sur la base de
 voyelles, et la seconde pour ceux basés sur des consonnes.
 
-Toujours pour permettre l'écriture sans diacritiques, Akarlahg fait usage des
-caractères *"* et *-* en fin de mots pour symboliser les liaisons en [z] et en
-[t] ; les liaisons en [n] ne sont pas représentées. Akarlãg, pour sa part,
-utilisera respectivement les diacritiques souscrits *̧* (U+0327), *̝* (U+031D)
-et *̰* (U+0330) pour symboliser ces mêmes liaisons.
-
 === Vwȧèl' / Vwayhel'
 
 image:images/vwayhel.png[]
@@ -95,6 +89,58 @@ image:images/vwayhel.png[]
 === Kõson' / Kohson'
 
 image:images/kohson.png[]
+
+=== Liaisons
+
+Toujours pour permettre l'écriture sans diacritiques, Akarlahg fait usage des
+caractères *"* et *-* en fin de mots pour symboliser les liaisons en [z] et en
+[t] ; les liaisons en [n] ne sont pas représentées. Akarlãg, pour sa part,
+utilisera respectivement les diacritiques souscrits *̧* (U+0327), *̝* (U+031D)
+et *̰* (U+0330) pour symboliser ces mêmes liaisons.
+
+=== Accords
+
+Les accords en nombre se font via l'ajout du caractère *'* en fin de mot.
+
+== Akarlang
+
+Une troisième variante est proposée. Elle est assez différente des deux
+premières en ce sens qu'elle se propose d'être une réforme de l'orthographe par
+simplification itérative des règles qui la compose. Voici les propositions sur
+lesquelles elle repose :
+
+1. Suppression des doubles consonnes
+   - Simplification des -bb-, -dd-, -pp-, -ff-, -gg-
+   - Remplacement du -zz- par -z-, -dz- ou -ts-
+   - Simplification des -mm-, -nn-, -rr-, -ll-, -cc- lorsqu'ils ne correspondent pas à une pronnonciation différente.
+   - **Compromis**: maintien du -ss-
+2. Simplification des ph, th, ch, kh, y, h grecs
+3. Supprimer purement et simplement la marque du pluriel
+4. Suppression des flexions inaudibles
+5. Simplifier les orthograhes -aon, -ein, etc.
+   - les -aon- deviennent -an- ou -on-
+   - les -ein- deviennent -in-
+   - les -ain- deviennent -in-
+   - les -aim- deviennent -in-
+   - **Compromis** : maintien du -un- (prononcé dans certaines régions)
+6. Simplifier les [s]
+   - les -tion- deviennent des -cion-
+   - les formes -sc-, -sç-, -x-, -z- disparaissent
+7. Réformer le -qu- / -gu-
+   - les -qu- deviennent des -c- devant (a|o|u) ou des -q- devant (e|i|y)
+   - les mots en -que deviennent des -q
+   - les -gu- deviennent des -g- devant (a|o|u)
+   - mettre un tréma sur le -ü- quand le -qu- se pronnonce [kw]
+   - **Compromis** : exception faite des pronoms en qu-
+8. Supprimer le circonflexe quand il est purement étymologique ou homonymique
+9. Simplifier les trémas, -ill-, -y-, -h-
+   - positionner le trémas sur la lettre prononcée
+   - les -ill- deviennent -y-
+   - généraliser le -y- comme son [j] uniquement
+10. Supprimer les consonnes muettes internes et finales
+11. Harmoniser les mots en [ɑ̃]
+    - les [ɑ̃] finaux deviennent -an
+    - les [ɑ̃] internes deviennent -en
 
 == Transcription
 

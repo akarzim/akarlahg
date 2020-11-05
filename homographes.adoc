@@ -3,109 +3,131 @@
 En linguistique, des mots homographes sont des mots qui s'écrivent de la même
 manière, tout en se prononçant ou non de façon différente.
 
-En voici quelques-uns et leurs transcriptions respectives en API, en Akarlãg et en Akarlahg.
+En voici quelques-uns et leurs transcriptions respectives en API, en Akarlãg, en
+Akarlahg, et en Akarlang.
 
 Nous portions nos portions.::
 - nu pɔʁtjˈɔ̃ no pɔʁsjˈɔ̃
 - Nů portyõ' nô porsyõ'.
 - Nhu portyoh' no porsyoh'.
+- Nou portion no porcion.
 
 Les poules du couvent couvent.::
 - le- pˈul dy- kuvˈɑ̃ kˈuv
 - Lé půl' du kůvã kův'.
 - Leh phul' du khuvah khuv'.
+- Les poul du couvan couve.
 
 Mes fils ont cassé mes fils.::
 - me- fˈis ˈɔ̃ kasˈe me- fˈil
 - Mé fis' õ' kasé mé fil'.
 - Meh fis' oh' kaseh meh fil'.
+- Mes fice on cassé mes fil.
 
 Je vis ces vis.::
 - ʒə- vˈi se vˈis
 - Je vi sé vis'.
 - Je vi seh vis'.
+- Je vi ces vice.
 
 Cet homme est fier ; peut-on s'y fier ?::
 - sɛt ˈɔm ɛ fjˈɛʁ ; pˈøtɔ̃ si fjˈe ?
 - Sèt om è fyèr ; pœ̝ õ si fyé ?
 - Shet om he fyher ; pe- oh si fyeh ?
+- Cet om è fyèr ; peut-on s'i fyé ?
 
 Nous éditions de belles éditions.::
 - nuz editjˈɔ̃ də- bˈɛlz edisjˈɔ̃
 - Nů̧ édityõ' de bèļ' édisyõ'.
 - Nhu" ehdityoh' de bhel" ehdisyoh'.
+- Nou édition de bels édicion.
 
 Je suis content qu'ils nous content cette histoire.::
 - ʒə- syˌi kɔ̃tˈɑ̃ kil nu kɔ̃t sɛt istwˈaʁ
 - Je sui kõtã k'il' nů kõt' sèt istwar.
 - Je suis kohtah k'il' nhu koht' shet istwar.
+- Je sui contan qu'il nou conte cète istoir.
 
 Il convient qu'ils convient leurs amis.::
 - il kɔ̃vjˈɛ̃ kil kɔ̃vi lœʁz amˈi
 - Il kõvyĩ k'il' kõvi' lœŗ' ami'.
 - Il kohvyih k'il' kohvi' ler" ami'.
+- Il convien qu'il convi leurs ami.
 
 Ils ont un caractère violent et ils violent leurs promesses.::
 - ilz ɔ̃t œ̃ kaʁaktˈɛʁ vjɔlˈɑ̃ e il vjˈɔl lœʁ pʁɔmˈɛs
 - Iļ' õ̝' ũ karaktèr vyolã é il' vyol' lœr' promès'.
 - Il" oh-' uh karakther vyolah eh il' vyol' ler' promhes'.
+- Ils on un caractère violan et il viol leur promesse.
 
 Ces dames se parent de fleurs pour leur parent.::
 - se dˈam sə- pˈaʁ də- flˈœʁ puʁ lœʁ paʁˈɑ̃
 - Sé dam' se par' de flœr' půr lœr parã.
 - Seh dam' se par' de fler' phur ler parah.
+- Ces dam se par de fleur pour leur paran.
 
 Ils expédient leurs lettres ; c'est un bon expédient.::
 - ilz ɛkspedˈi lœʁ lˈɛtʁ ; sɛt œ̃ bˈɔ̃n ɛkspedjˈɑ̃
 - Iļ' èxpédi' lœr' lètr' ; s'è̝ ũ bon èxpédyã.
 - Il" hexpehdi' ler' lhetr' ; s'he- uh bon hexpehdyah.
+- Ils expédi leur lètre ; c'è un bon expédian.
 
 Ils négligent leur devoir ; moi, je suis moins négligent.::
 - il neɡlˈiʒ lœʁ dəvwˈaʁ ; mwˈa, ʒə- syˌi mwˈɛ̃ neɡlˈiʒˈɑ̃
 - Il' néglij' lœr devwar ; mwa, je sui mwĩ néglijã.
 - Il' nehglij' ler devwar ; mwa, je sui mwih nehglijah.
+- Il néglige leur devoir ; moi, je sui moin néglijan.
 
 Ils résident à Paris chez le résident d\'une ambassade étrangère.::
 - il ʁezˈidt a paʁˈi ʃe lə- ʁezidˈɑ̃ dyn ɑ̃basˈad etʁɑ̃ʒˈɛʁ
 - Il' rézid̝' a Pari ȼé le rézidã d'un ãbasad étrãjèr.
 - Il' rehzid-' a Pari ceh le rehzidah d'un ahbasad ehtrahjher.
+- Il réside à Paris ché le résidan d'une anbassade étrangère.
 
 Ces cuisiniers excellent à composer cet excellent plat.::
 - se kyizinjˈez ɛksɛlˈt a kɔ̃pozˈe sɛt ɛksɛlˈɑ̃ plˈa
 - Sé kuizinyȩ́' èxèl̝' a kõpôzé sèt èxèlã pla.
 - Seh kuizinyeh" hekshel-' a kohpozeh shet hekshelah pla.
+- Ces cuisinié eccel à conposé cet eccélan pla.
 
 Les poissons affluent d\'un affluent de la rivière.::
 - le- pwasˈɔ̃z afly dœ̃n aflyˈɑ̃ də- la- ʁivjˈɛʁ
 - Lé pwasõ̧' aflu' d'ṵ̃ afluã de la rivyèr.
 - Leh pwasoh" aflu' d'uh afluah de la rivyher.
+- Les poisson aflu d'un afluan de la rivière.
 
 Nous objections beaucoup de choses à vos objections.::
 - nuz ɔbʒɛktjˈɔ̃ bokˌu də- ʃˈozz a voz ɔbʒɛksjˈɔ̃
 - Nů̧ objèktyõ bôků de ȼôz̧' a vô̧' objèxyõ.
 - Nhu" objhektyoh bokhu de coz" a vo" objheksyoh.
+- Nous objection bocou de chose à vos objeccion.
 
 Nous nous oignons de purée d'oignons.::
 - nu nuz wanjˈɔ̃ də- pyʁˈe donjˈɔ̃
 - Nů nů̧ wanyõ' de puré d'ônyõ'.
 - Nhu nhu" wanyoh de pureh d'onyoh'.
+- Nou nous oignon de puré d'onion.
 
 Nous relations nos relations.::
 - nu ʁəlatjˈɔ̃ no ʁəlasjˈɔ̃
 - Nů relatyõ' nô' relasyõ'.
 - Nhu relatyoh' no' relasyoh'.
+- Nous relation no relacion.
 
 Il est né à l\'est.::
 - il ɛ nˈe a lˈɛst
 - Il è né a l'èst.
 - Il he neh a l'hest.
+- Il è né à l'èste.
 
 Tu as un as dans ton jeu.::
 - ty az œ̃n ˈas dɑ̃ tɔ̃ ʒˈø
 - Tu a̧ ṵ̃ as dã tõ jœ.
 - Tu a" uh as dah toh je.
+- Tu a un as dan ton je.
 
 J\'ai fait un nœud de chaise avec ce bout de bout.::
 - ʒe fˈɛt œ̃ nˈø də- ʃˈɛz avˌɛk sə- bˈu də- bˈut
 - J'é fè̝ ũ nœ de ȼèz avèk se bů de bůt.
 - J'eh fhe- eh ne de chez avhek se bhu de bhut.
+- J'ai fai un ne de chèse avec ce bou de boute.
