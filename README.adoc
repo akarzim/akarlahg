@@ -82,6 +82,12 @@ de {digrammes} permettant l'écriture sans {diacritiques}. Il s'agit du *h* et d
 *q*. La première étant utilisée dans le cas de digrammes sur la base de
 voyelles, et la seconde pour ceux basés sur des consonnes.
 
+Toujours pour permettre l'écriture sans diacritiques, Akarlahg fait usage des
+caractères *"* et *-* en fin de mots pour symboliser les liaisons en [z] et en
+[t] ; les liaisons en [n] ne sont pas représentées. Akarlãg, pour sa part,
+utilisera respectivement les diacritiques souscrits *̧* (U+0327), *̝* (U+031D)
+et *̰* (U+0330) pour symboliser ces mêmes liaisons.
+
 === Vwȧèl' / Vwayhel'
 
 image:images/vwayhel.png[]
