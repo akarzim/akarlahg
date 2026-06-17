@@ -1,3 +1,9 @@
+:codeberg: https://codeberg.org/akarzim/akarlahg[Codeberg]
+
+= ⚠️ Important
+
+Moved to {codeberg}
+
 = Introduction
 
 :homographie: https://fr.wikipedia.org/wiki/Homographe[homographie]
